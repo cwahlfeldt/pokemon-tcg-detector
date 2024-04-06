@@ -1,0 +1,14 @@
+{
+  "name": "pokemon-tcg-detector",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^4.17.0"
+  }
+}
